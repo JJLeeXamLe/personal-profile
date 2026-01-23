@@ -7,35 +7,35 @@ HEADER:
   label: "Show Contacts"
 
 USER:
-  role: "iOS Developer"
-  name: "Richard Hendricks"
-  username: "richardhendricks" # <-- This needs to be the same as your GitHub username
-  avatar: "config/assets/avatars/my-avatar.png"
+  role: "AI Research Engineer"
+  name: "Le Thanh Long"
+  username: "JJLEE-194099" # <-- This needs to be the same as your GitHub username
+  avatar: "config/assets/avatars/avatar.jpg"
 
 INFO:
   - label: "Email"
-    value: "richard@example.com"
+    value: "attentionocr@gmail.com"
     icon: "mail-outline"
   - label: "Phone"
-    value: "+1 (213) 352-2795"
+    value: "+84 969973012"
     icon: "phone-portrait-outline"
   - label: "Birthday"
-    value: "June 26, 1996"
+    value: "September 26, 2001"
     icon: "calendar-outline"
   - label: "Location"
-    value: "Sacramento, California, USA"
+    value: "Sweden"
     icon: "location-outline"
 
 SOCIAL:
   - icon: "logo-facebook"
-    url: "https://facebook.com/"
+    url: "https://www.facebook.com/le.thanh.long.183904"
   - icon: "logo-twitter"
     url: "https://twitter.com/"
   - icon: "logo-instagram"
     url: "https://instagram.com/"
   - icon: "logo-linkedin"
-    url: "https://www.linkedin.com/"
+    url: "https://www.linkedin.com/in/long-lee-1b49a7240/"
   - icon: "logo-github"
-    url: "https://github.com/ivansaul"
+    url: "https://github.com/JJLEE-20194099/BKPriceSystem"
   - icon: "logo-dribbble"
     url: "https://dribbble.com/"

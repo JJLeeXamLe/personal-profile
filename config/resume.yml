@@ -5,32 +5,29 @@ EDUCATION:
   enabled: true
   label: "Education"
   items:
-    - period: "2002 — 2004"
-      institution: "High School of Art and Design"
-      description: "Graduated with honors, focusing on visual arts and design principles. Participated in multiple student exhibitions, honing skills in drawing, painting, and graphic design."
-    - period: "2005 — 2007"
-      institution: "Brooklyn Technical High School"
-      description: "Completed coursework in computer science and digital media, with a particular focus on web development and programming. Collaborated on projects involving coding and design integration."
-    - period: "2006 — 2007"
-      institution: "New York Academy of Art"
-      description: "Studied fine arts with a focus on sculpture and advanced painting techniques. Took part in workshops and intensive studio sessions, receiving feedback from industry professionals."
-    - period: "2007 — 2008"
-      institution: "University School of the Arts"
-      description: "Pursued a Bachelor of Fine Arts degree, specializing in interactive media and digital design. Graduated with a portfolio of projects blending traditional art forms with emerging technologies."
+    - period: "Sep 2019 — Jun 2024"
+      institution: "Hanoi University of Science and Technology, Vietnam"
+      description: "Bachelor of Computer Science (CPA: 3.65/4.0 - 9.13/10). Strong training in algorithms, data structures, machine learning, probability, and software engineering. Completed a graduation thesis focusing on large-scale data systems and machine learning pipelines."
+
+    - period: "Sep 2025 — Sep 2027"
+      institution: "Mid Sweden University, Sweden"
+      description: "Master of Science (EMJM) in Imaging. Focus on computer vision, image processing, generative models, and learning-based visual systems, with a strong emphasis on research and publication-oriented projects."
 
 EXPERIENCE:
   enabled: true
-  label: "Experience"
+  label: "Research & Industry Experience"
   items:
-    - period: "2010 — 2013"
-      position: "Web Designer"
-      description: "Worked on the design and development of websites for small to medium-sized businesses. Collaborated closely with developers to ensure responsive and user-friendly designs. Led the redesign of the company’s website, improving user engagement by 25%."
-    - period: "2013 — 2015"
-      position: "Art Director"
-      description: "Led a team of designers to create visually stunning campaigns for major clients in the advertising industry. Managed the creative direction of print and digital media, ensuring consistent branding and high-quality designs. Oversaw the production of advertisements that won industry awards."
-    - period: "2015 — Present"
-      position: "Creative Director"
-      description: "Direct and oversee the creative process for a range of projects, from concept to execution. Lead cross-functional teams to create innovative design solutions for branding, marketing, and digital experiences. Recently led the redesign of a global brand’s digital presence, increasing online sales by 40%."
+    - period: "Feb 2021 — Mar 2023"
+      position: "AI Engineer — Virtual Fitting Room (Looklet, Sweden)"
+      description: "Developed end-to-end computer vision and generative AI systems for virtual try-on at production scale. Designed segmentation and generative pipelines using U-Net, DeepLab, Vision Transformers, and GAN-based architectures (VITON, CP-VTON, StyleGAN). Worked on high-resolution image synthesis, multi-resolution training, and realistic cloth simulation. Built robust MLOps pipelines with Airflow, Feast, and MLflow for continuous training, evaluation, and deployment."
+
+    - period: "Mar 2023 — Nov 2024"
+      position: "AI Engineer — Crypto AI Product (Oraichain Labs, Vietnam)"
+      description: "Designed and implemented AI-driven crypto trading agents combining time-series forecasting, reinforcement learning, and large language models. Fine-tuned and distilled LLMs (Llama 2, Mistral, Falcon, T5) for market analysis, RAG-based reporting, and real-time inference. Built scalable data pipelines and backtesting frameworks, applying Bayesian optimization, genetic algorithms, and uncertainty-aware evaluation."
+
+    - period: "2024 — Present"
+      position: "Research Reviewer & Subreviewer"
+      description: "Reviewer for ACM TIST 2026 and Subreviewer for AAAI 2025. Evaluated research on graph neural networks, intelligent security analysis, and advanced machine learning methods, focusing on theoretical soundness, experimental rigor, and reproducibility."
 
 LANGUAGES:
   enabled: true
@@ -38,22 +35,22 @@ LANGUAGES:
   display_percentage_values: true
   label: "Languages"
   items:
-    - language: "Inglés"
-      proficiency: "60%"
-    - language: "Francés"
-      proficiency: "40%"
+    - language: "English"
+      proficiency: "85%"
+    - language: "Vietnamese"
+      proficiency: "100%"
 
 SKILLS:
   enabled: true
   display_progress_bars: true
   display_percentage_values: true
-  label: "My Skills"
+  label: "Technical Skills"
   items:
-    - skill: "Web Design"
-      proficiency: "80%"
-    - skill: "Graphic Design"
-      proficiency: "70%"
-    - skill: "Branding"
+    - skill: "Machine Learning & Deep Learning (PyTorch)"
       proficiency: "90%"
-    - skill: "WordPress"
-      proficiency: "50%"
+    - skill: "Large Language Models & Generative AI"
+      proficiency: "85%"
+    - skill: "Computer Vision & Image Processing"
+      proficiency: "85%"
+    - skill: "MLOps & Data Systems"
+      proficiency: "80%"

@@ -3,48 +3,65 @@ HEADER:
 
 PRESENTATION:
   description: |
-    I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+    I am an AI Research Engineer with a strong foundation in theoretical machine learning, probabilistic modeling, and large-scale AI systems. My background spans both academic research and real-world deployment, with peer-reviewed publications in top-tier venues (PAKDD, TOSEM) covering fairness in clustering, graph neural networks, and LLM-based security analysis.
 
-    My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+    I am particularly interested in pushing the frontiers of modern machine learning, including generative models, diffusion-based learning, LLMs, graph transformers, and uncertainty-aware systems. With hands-on experience in designing end-to-end ML pipelines and mathematically grounded algorithms, I bridge theory and practice to build reliable, scalable, and interpretable AI systems.
+
+    My research mindset is driven by curiosity, rigor, and impact: from fairness guarantees and probabilistic inference to multimodal learning and robust LLM applications. I am highly motivated to contribute to cutting-edge research in machine learning foundations and new frontiers, while collaborating in competitive and interdisciplinary research environments.
 
 DOING:
   enabled: true
   label: "What I'm doing"
   items:
-    - title: "Mobile Apps"
-      icon: "config/assets/icons/mobile.svg"
-      description: "Professional development of applications for iOS and Android."
-    - title: "Scripting"
-      icon: "config/assets/icons/code.svg"
-      description: "Automation and task scripting using Python to enhance efficiency and productivity."
-    - title: "UI/UX Designing"
-      icon: "config/assets/icons/compass.svg"
-      description: "Intuitive and visually appealing user interfaces and user experiences."
-    - title: "Web Development"
-      icon: "config/assets/icons/laptop-code.svg"
-      description: "High-quality development of sites at the professional level."
+    - title: "AI Research Engineer"
+      icon: "config/assets/icons/paper.svg"
+      description: "Conducting research on generative models, graph neural networks, fairness-aware learning, and LLM-based systems, with publications in international conferences and journals."
+
+    - title: "Generative & Probabilistic Models"
+      icon: "config/assets/icons/prob.svg"
+      description: "Working with diffusion models, GANs, and probabilistic learning methods, focusing on uncertainty quantification, robustness, and high-dimensional data modeling."
+
+    - title: "Large Language Models"
+      icon: "config/assets/icons/llm.svg"
+      description: "Designing, fine-tuning, and distilling LLMs (Llama, Mistral, Falcon, T5) for structured reasoning, security analysis, and domain-specific intelligence."
+
+    - title: "Applied ML Systems & MLOps"
+      icon: "config/assets/icons/mlops.svg"
+      description: "Building production-grade ML pipelines with Airflow, MLflow, Feast, and CI/CD, enabling reliable experimentation, deployment, and large-scale inference."
 
 SKILLS:
   enabled: true
-  label: "Soft Skills"
+  label: "Publications & Research Experiences"
   items:
-    - title: "Fast Learner"
-      icon: "config/assets/icons/bolt.svg"
-      description: "I have the ability to quickly acquire new knowledge and adapt to changing technological environments."
-    - title: "Teamwork"
-      icon: "config/assets/icons/user.svg"
-      description: "I collaborate effectively in multidisciplinary projects and communicate clearly with team members."
-    - title: "Problem Solving"
-      icon: "config/assets/icons/gear.svg"
-      description: "I am creative and efficient in identifying and solving technical problems."
-    - title: "Effective Communication"
-      icon: "config/assets/icons/comment.svg"
-      description: "I have the skill to convey ideas clearly and concisely, both technically and non-technically."
+    - title: "MANDO-LLM: Graph Transformers with LLMs for Smart Contract Security (TOSEM 2025)"
+      icon: "config/assets/icons/mandollm.svg"
+      description: "Proposed a heterogeneous graph transformer framework augmented with large language models for smart contract vulnerability detection. The work bridges graph neural networks, program analysis, and LLM reasoning, demonstrating strong performance gains on real-world blockchain security benchmarks. Link: https://dl.acm.org/doi/10.1145/3765751"
+
+    - title: "FACROC: Fairness-Aware Clustering via ROC Analysis (PAKDD 2025)"
+      icon: "config/assets/icons/fairness.svg"
+      description: "Introduced a novel fairness metric for clustering based on ROC curve analysis. The study combines statistical learning theory and optimization to evaluate and improve fairness guarantees in unsupervised machine learning. Link: https://arxiv.org/abs/2503.00854"
+
+    - title: "B4E: Secure Digital Credentials with Blockchain & Remote Signing (SOICT 2022)"
+      icon: "config/assets/icons/b4e.svg"
+      description: "Designed a blockchain-based system for secure digital credential issuance and validation. The project emphasizes system reliability, cryptographic trust, and real-world deployment considerations. Link: https://dl.acm.org/doi/10.1145/3568562.3568656"
+
+    - title: "Structure-Aware Pseudo-Video Traversal for Light Field Compression (ICIP 2026, under submission)"
+      icon: "config/assets/icons/reviewer.svg"
+      description: "Developed a structure-aware traversal strategy combining contrastive learning and traditional signal processing for efficient light field compression, integrating learning-based models with domain-specific physical structure. Link: https://drive.google.com/file/d/1EaOiqQNk-ykEcJ6nggVb11Y_P__rnT6D/view?pli=1"
+
+    - title: "Reviewer & Subreviewer (AAAI 2025, ACM TIST 2026)"
+      icon: "config/assets/icons/laptop-code.svg"
+      description: "Served as reviewer and subreviewer for top-tier venues, critically evaluating research on graph neural networks, intelligent security analysis, and advanced machine learning methods, with a strong focus on methodological rigor and novelty."
+
 
 TECHNOLOGIES:
   enabled: true
   label: "Tech Experience"
   items:
+    - title: "LLM"
+      icon: "config/assets/icons/numpy.svg"
+    - title: "Machine Learning"
+      icon: "config/assets/icons/ml.svg"
     - title: "Python"
       icon: "config/assets/icons/python.svg"
     - title: "Flutter"
