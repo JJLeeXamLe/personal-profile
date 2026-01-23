@@ -3,11 +3,11 @@ HEADER:
 
 PRESENTATION:
   description: |
-    I am an AI Research Engineer with a strong foundation in theoretical machine learning, probabilistic modeling, and large-scale AI systems. My background spans both academic research and real-world deployment, with peer-reviewed publications in top-tier venues (PAKDD, TOSEM) covering fairness in clustering, graph neural networks, and LLM-based security analysis.
+    I am an AI Research Engineer with a background and motivation in theoretical machine learning, probabilistic modeling, and large-scale AI systems. My background spans both academic research and real-world deployment, with peer-reviewed publications in top-tier venues (PAKDD, TOSEM) covering fairness in clustering, graph neural networks, and LLM-based security analysis.
 
-    I am particularly interested in pushing the frontiers of modern machine learning, including generative models, diffusion-based learning, LLMs, graph transformers, and uncertainty-aware systems. With hands-on experience in designing end-to-end ML pipelines and mathematically grounded algorithms, I bridge theory and practice to build reliable, scalable, and interpretable AI systems.
+    I am particularly interested in researching modern machine learning, including generative models, diffusion-based learning, LLMs, graph transformers, and uncertainty-aware systems. With hands-on experience in designing end-to-end ML pipelines and mathematically grounded algorithms, I bridge theory and practice to build reliable, scalable, and interpretable AI systems.
 
-    My research mindset is driven by curiosity, rigor, and impact: from fairness guarantees and probabilistic inference to multimodal learning and robust LLM applications. I am highly motivated to contribute to cutting-edge research in machine learning foundations and new frontiers, while collaborating in competitive and interdisciplinary research environments.
+    My research mindset is driven by solving real problem in the world and impact: from fairness guarantees and probabilistic inference to multimodal learning and robust LLM applications. I am highly motivated to contribute to cutting-edge research in machine learning foundations and new frontiers, while collaborating in competitive and interdisciplinary research environments.
 
 DOING:
   enabled: true
