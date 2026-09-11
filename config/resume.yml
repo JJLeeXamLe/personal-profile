@@ -49,6 +49,8 @@ LANGUAGES:
     - language: "Vietnamese"
       proficiency: "100%"
 
+  
+
 SKILLS:
   enabled: true
   display_progress_bars: true
