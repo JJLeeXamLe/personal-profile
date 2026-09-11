@@ -5,6 +5,7 @@ description = "Fully responsive personal portfolio single-page website, responsi
 authors = ["ivansaul <ihuamanis@uni.pe>"]
 license = "MIT"
 readme = "README.md"
+
 package-mode = false
 
 [tool.poetry.dependencies]
