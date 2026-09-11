@@ -23,7 +23,7 @@ INFO:
     value: "September 26, 2001"
     icon: "calendar-outline"
   - label: "Location"
-    value: "Sweden"
+    value: "Finland"
     icon: "location-outline"
 
 SOCIAL:
@@ -33,8 +33,6 @@ SOCIAL:
     url: "https://twitter.com/"
   - icon: "logo-instagram"
     url: "https://instagram.com/"
-  - icon: "logo-linkedin"
-    url: "https://www.linkedin.com/in/long-lee-1b49a7240/"
   - icon: "logo-github"
     url: "https://github.com/JJLEE-20194099/BKPriceSystem"
   - icon: "logo-dribbble"

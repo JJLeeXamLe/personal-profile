@@ -2,9 +2,15 @@ HEADER:
   label: "Projects"
 
 PROJECTS:
-  - title: "Bank Agent Advisor"
+  - title: "Robot Optimization"
+    category: "Robot"
+    image: "config/assets/posts/blog20.png"
+    url: "https://github.com/JJLEE-20194099/Robot-Optimization/"
+
+  
+  - title: "Bank Agent Advisor - AI Agent Competition - Top2"
     category: "LLM"
-    image: "config/assets/posts/blog7.png"
+    image: "config/assets/posts/blog3.png"
     url: "https://github.com/JJLEE-20194099/virtual-bank-agentic-consultant"
 
   - title: "RealEstate Price Prediction"
